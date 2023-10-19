@@ -1,3 +1,4 @@
+#bonus program
 Amount=int(input("persons salary: "))
 time = int(input("time period of service: "))
 bonus=amount * time
