@@ -1,3 +1,4 @@
+# Age program
 person1=int(input("Enter person1 age"))
 person2=int(input("Enter person2 age"))
 person3=int(input("Enter person3 age"))
