@@ -1,3 +1,4 @@
+#marks allocation program
 math=int(input("Enter math: "))
 eng=int(input("Enter eng: "))
 kisw=int(input("Enter kisw: "))
